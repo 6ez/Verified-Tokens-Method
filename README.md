@@ -1,4 +1,4 @@
-VERIFIED TOKENS METHOD BY (https://linktr.ee/__1)
+VERIFIED DISCORD TOKENS METHOD BY (https://linktr.ee/__1)
 --------------------------------------------------------------------------------------------------------------
 Hello, if you are here to gain members/raid servers/make verified tokens for any reason, then this tutorial will help you, alright, first of all, you will need any browser that has a built in vpn, theres many browsers that has vpns, you can also use vpns that are outside of the browser but i suggest using a browser that has vpns ( not only one vpn, atleast 3), so once you have your vpns ready, go into incognito mode/private browsing in the browser, then go to (https://discord.com/register), once you're there, go ahead and make a new gmail account, you can also use your own gmail, when you have your gmail account ready, you can go ahead and make a new account, for the email section put your email then add a + sign and any number, like this:
 youremail+1@gmail.com
