@@ -1,5 +1,18 @@
 VERIFIED DISCORD TOKENS METHOD BY (https://linktr.ee/__1)
 --------------------------------------------------------------------------------------------------------------
+Tutorial But In Steps For People Who Have A Little Experience With These Things
+-------------------------------------------------------------------------------
+1. Make a gmail account
+2. get a browser that has atleast 3 vpns or use any vpn
+3. go to discord
+4. open developer mode in the browser ( might be F12 or Ctrl + C )
+5. go to applications and under local storage click on discord
+6. make a discord account with your gmail, but add a + and then any number ( for each time you want to make a new account change the number and the vpn )
+7. click on token in the applications tab
+8. copy token ( AND DONE! )
+---------------------------
+Detailed Tutorial: 
+------------------
 Hello, if you are here to gain members/raid servers/make verified tokens for any reason, then this tutorial will help you, alright, first of all, you will need any browser that has a built in vpn, theres many browsers that has vpns, you can also use vpns that are outside of the browser but i suggest using a browser that has vpns ( not only one vpn, atleast 3), so once you have your vpns ready, go into incognito mode/private browsing in the browser, then go to (https://discord.com/register), once you're there, go ahead and make a new gmail account, you can also use your own gmail, when you have your gmail account ready, you can go ahead and make a new account, for the email section put your email then add a + sign and any number, like this:
 youremail+1@gmail.com
 youremail+2@gmail.com
