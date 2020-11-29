@@ -7,7 +7,7 @@ Tutorial But In Steps For People Who Have A Little Experience With These Things
 3. go to discord
 4. open developer mode in the browser ( might be F12 or Ctrl + C )
 5. go to applications and under local storage click on discord
-6. make a discord account with your gmail, but add a + and then any number ( for each time you want to make a new account change the number and the vpn )
+6. make a discord account with your gmail, but add a + after the email and then any number ( for each time you want to make a new account change the number and the vpn )
 7. click on token in the applications tab
 8. copy token ( AND DONE! )
 ---------------------------
