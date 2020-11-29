@@ -47,3 +47,10 @@ but for anyone who wants to only make them join, click on start attack, and then
 --------------------------------------------------------------------------------------------------------------
 have fun, and please give credit to me if you can (https://linktr.ee/__1)
 --------------------------------------------------------------------------------------------------------------
+
+
+YOU CAN ALSO PASTE THIS CODE IN THE DISCORD CONSOLE TO GET YOUR TOKEN:( YOU CAN OPEN THE DISCORD CONSOLE BY CLICKING CTRL + SHIFT + I
+
+var req=webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);for(let e in req.c)if(req.c.hasOwnProperty(e)){let r=req.c[e].exports;if(r&&r.__esModule&&r.default)for(let e in r.default)"getToken"===e&&console.log(r.default.getToken())}
+
+
